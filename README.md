@@ -1,7 +1,4 @@
 
-md
-Copy
-Edit
 # Role-Based Access Control (RBAC) Auth System
 
 This project is a work in progress and actively under development. The architecture, features, and structure may evolve as implementation continues.
